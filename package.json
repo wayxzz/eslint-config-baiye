@@ -1,14 +1,18 @@
 {
   "name": "eslint-config-baiye",
-  "version": "1.0.0",
-  "description": "eslint config ",
+  "version": "1.0.1",
+  "description": "Eslint Config ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayxzz/eslint-config-baiye.git"
+  },
   "keywords": [
     "eslint"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "niewei502533466@gmail.com",
+  "license": "MIT"
 }
